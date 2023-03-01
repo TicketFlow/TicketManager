@@ -1,6 +1,6 @@
 # TicketManagerService
 
-The ticket management service is responsible for managing the tickets available for sale in each event registered in the EventWave application. It allows users to view available tickets, purchase tickets and reserve tickets for future purchases.
+The ticket management service is responsible for managing the tickets available for sale in each event registered in the TicketFlow application. It allows users to view available tickets, purchase tickets and reserve tickets for future purchases.
 
 ### Endpoints
 
